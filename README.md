@@ -36,7 +36,4 @@ Materials/
 
 Developed using Unity 2022+
 
-## Author
 
-Created for CMP-6056B / CMP-7042B  
-University of East Anglia
