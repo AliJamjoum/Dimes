@@ -1,7 +1,7 @@
 
 # Dimes – Unity Prototype
 
-This repository contains the Unity prototype for the game **Dimes**, developed for the module CMP-6056B
+This repository contains the Unity prototype for the game **Dimes**
 
 Dimes is a conceptual puzzle game where the player begins in a **one-dimensional environment** and gradually unlocks higher spatial dimensions.
 
@@ -34,6 +34,6 @@ Materials/
 
 ## Unity Version
 
-Developed using Unity 2022+
+Developed using Unity 6.0
 
 
